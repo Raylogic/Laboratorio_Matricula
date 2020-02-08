@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Control de versiones</title>
+    <title>Control de versiones mejorado</title>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -9,6 +9,9 @@
 <body>
     <main>
 	<h1>Laboratorio de Github</h1>
+	<div class="card-panel">
+    	     <span class="blue-text text-darken-2">Esto es una tarjeta</span>
+  	</div>
     </main>
 </body>
 <footer class="page-footer blue darken-4">
